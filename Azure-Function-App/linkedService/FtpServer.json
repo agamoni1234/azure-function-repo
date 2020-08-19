@@ -6,7 +6,7 @@
 		"typeProperties": {
 			"host": "DESKTOP-F0RQ89D",
 			"port": 21,
-			"enableSsl": false,
+			"enableSsl": true,
 			"enableServerCertificateValidation": false,
 			"authenticationType": "Anonymous"
 		}
